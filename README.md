@@ -1,2 +1,2 @@
 # React_JS
-Learning JavaScripts and React
+Learning JavaScripts.
