@@ -1,5 +1,8 @@
 import MeetupItem from "./MeetupItem";
 import classes from "./MeetupList.module.css";
+
+//<ul> is an unordered list
+// how every list should look like
 function MeetupList(props) {
   return (
     <ul className={classes.list}>
